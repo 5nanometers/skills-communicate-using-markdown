@@ -3,5 +3,6 @@
 ``` java
 String myFinalMessage = "Change the world";
 ```
-
-[x] Added header message.
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
